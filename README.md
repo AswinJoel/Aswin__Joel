@@ -1,25 +1,88 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24&height=220&section=header&text=Welcome%20to%20Aswin%20Joel%20K's%20Github&fontSize=32&fontColor=ffffff&animation=fadeIn" width="100%" alt="banner"/>
+<!--
+ASWIN JOEL K — GITHUB PROFILE README TEMPLATE
 
-<a href="https://www.linkedin.com/in/aswin-joel-k"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:aswinjoel04@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a> <a href="https://www.instagram.com/aswin_joel_"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+BEFORE PUBLISHING:
+1. Replace YOUR_GITHUB_USERNAME with your exact GitHub username everywhere.
+2. Replace the LinkedIn, Gmail and Instagram placeholder links with your real links.
+3. Add your images to the assets/ folder using the filenames in IMAGE SETUP below.
+4. Keep this file named README.md in the root of the public repository whose name
+   exactly matches your GitHub username.
 
-<br/><br/>
+Suggested repository structure:
+YOUR_GITHUB_USERNAME/
+├── README.md
+└── assets/
+    ├── profile-banner.png
+    ├── about-me.png
+    └── hobbies.png
 
-<h2>🧠 <i>Technologies</i></h2> <img src="https://img.shields.io/badge/MACHINE%20LEARNING-1F6FEB?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning"/> <img src="https://img.shields.io/badge/DEEP%20LEARNING-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning"/> <img src="https://img.shields.io/badge/GENERATIVE%20AI-8A2BE2?style=for-the-badge" alt="Generative AI"/> <img src="https://img.shields.io/badge/AGENTIC%20AI-0E7C66?style=for-the-badge" alt="Agentic AI"/> <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/> <img src="https://img.shields.io/badge/DJANGO-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/> <img src="https://img.shields.io/badge/AI%20TOOLS-4A6FA5?style=for-the-badge" alt="AI Tools"/> <img src="https://img.shields.io/badge/AI%20AUTOMATIONS-C2410C?style=for-the-badge" alt="AI Automations"/> <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-
-<br/><br/>
-
-<h2>📊 <i>Statistics</i></h2> <img src="https://github-readme-activity-graph.vercel.app/graph?username=AswinJoel&bg_color=0d1117&color=9ecbff&line=6ea8fe&point=ffffff&area=true&hide_border=false&title_color=9ecbff" width="95%" alt="Contribution Graph"/> <br/> <img src="https://github-readme-stats.vercel.app/api?username=AswinJoel&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AswinJoel&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
-
-<br/><br/>
-
-<h2>👨‍💻 <i>About Me</i></h2> <table> <tr> <td width="35%" align="center"> <img src="https://github.com/AswinJoel.png" width="180" alt="Aswin Joel K"/> </td> <td width="65%" align="center">
-
-Hello! My name is Aswin Joel K, and I am an AI Trainer and AI Engineer.
-
-I am an AI Engineer passionate about Artificial Intelligence, Machine Learning, and Generative AI. I enjoy building innovative applications, exploring emerging technologies, and solving real-world problems through technology. I am always eager to learn, grow, and create meaningful digital solutions.
-
-</td> </tr> </table> <br/> <h2>🎯 <i>Hobbies & Goals</i></h2>
-
-"Passionate about building intelligent AI solutions, sharing knowledge, exploring new technologies, and creating meaningful impact through innovation."
-
-<br/> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24&height=120&section=footer" width="100%" alt="footer"/> </div>
+The GitHub profile avatar shown in the left sidebar is changed in GitHub Settings >
+Public profile. It is NOT controlled by this README.
+--><div align="center">  <!-- IMAGE 1: wide banner at the top -->
+  <img src="./assets/profile-banner.png" alt="Aswin Joel K - GitHub banner" width="100%" />  <p>
+    <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+      <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:YOUR_EMAIL@gmail.com">
+      <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+    <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME">
+      <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+  </p></div>🧠 Technologies
+<div align="center">  <img src="https://img.shields.io/badge/Machine%20Learning-2563EB?style=for-the-badge" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-F97316?style=for-the-badge" alt="Deep Learning" />
+  <img src="https://img.shields.io/badge/Generative%20AI-9333EA?style=for-the-badge" alt="Generative AI" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-0F766E?style=for-the-badge" alt="Agentic AI" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Flask-222222?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/AI%20Tools-5271A5?style=for-the-badge" alt="AI Tools" />
+  <img src="https://img.shields.io/badge/AI%20Automation-EA580C?style=for-the-badge" alt="AI Automations" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></div>📊 Statistics
+<div align="center">  <!-- Replace YOUR_GITHUB_USERNAME in these image URLs -->
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph" /></div>🙋‍♂️ About Me
+<table>
+  <tr>
+    <td width="35%" align="center" valign="middle">
+      <!-- IMAGE 2: illustration/avatar for the About Me section -->
+      <img src="./assets/about-me.png" alt="Illustration of Aswin" width="220" />
+    </td>
+    <td width="65%" valign="middle">
+      <p align="center">
+        Hello! My name is <strong>Aswin Joel K</strong>, and I am an
+        <strong>AI Trainer and AI Engineer</strong>.
+      </p>
+      <p align="center">
+        I am passionate about Artificial Intelligence, Machine Learning, and
+        Generative AI. I enjoy building practical AI applications, exploring
+        emerging technologies, and solving real-world problems through
+        technology.
+      </p>
+      <p align="center">
+        I also enjoy sharing knowledge, mentoring learners, and helping people
+        build the skills they need to work confidently with AI.
+      </p>
+    </td>
+  </tr>
+</table>🎯 Hobbies & Goals
+<table>
+  <tr>
+    <td width="65%" align="center" valign="middle">
+      <p>
+        Passionate about building intelligent AI solutions, sharing knowledge,
+        exploring new technologies, and creating meaningful impact through
+        innovation.
+      </p>
+      <p><em>“Keep learning, keep building, and keep creating.”</em></p>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <!-- IMAGE 3: hobby/goal illustration -->
+      <img src="./assets/hobbies.png" alt="Hobbies and goals illustration" width="180" />
+    </td>
+  </tr>
+</table><div align="center">Thanks for visiting my profile! 🚀
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blue" alt="Profile views" /></div>
