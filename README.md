@@ -1,88 +1,75 @@
-<!--
-ASWIN JOEL K — GITHUB PROFILE README TEMPLATE
+:: {align="center"}
+# ASWIN JOEL K
 
-BEFORE PUBLISHING:
-1. Replace YOUR_GITHUB_USERNAME with your exact GitHub username everywhere.
-2. Replace the LinkedIn, Gmail and Instagram placeholder links with your real links.
-3. Add your images to the assets/ folder using the filenames in IMAGE SETUP below.
-4. Keep this file named README.md in the root of the public repository whose name
-   exactly matches your GitHub username.
+### AI TRAINER · AI ENGINEER · GENERATIVE AI ENTHUSIAST
 
-Suggested repository structure:
-YOUR_GITHUB_USERNAME/
-├── README.md
-└── assets/
-    ├── profile-banner.png
-    ├── about-me.png
-    └── hobbies.png
+*Building practical AI solutions. Sharing knowledge. Turning ideas into
+useful products.*
 
-The GitHub profile avatar shown in the left sidebar is changed in GitHub Settings >
-Public profile. It is NOT controlled by this README.
---><div align="center">  <!-- IMAGE 1: wide banner at the top -->
-  <img src="./assets/profile-banner.png" alt="Aswin Joel K - GitHub banner" width="100%" />  <p>
-    <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-      <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:YOUR_EMAIL@gmail.com">
-      <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
-    <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME">
-      <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
-  </p></div>🧠 Technologies
-<div align="center">  <img src="https://img.shields.io/badge/Machine%20Learning-2563EB?style=for-the-badge" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-F97316?style=for-the-badge" alt="Deep Learning" />
-  <img src="https://img.shields.io/badge/Generative%20AI-9333EA?style=for-the-badge" alt="Generative AI" />
-  <img src="https://img.shields.io/badge/Agentic%20AI-0F766E?style=for-the-badge" alt="Agentic AI" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Flask-222222?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/AI%20Tools-5271A5?style=for-the-badge" alt="AI Tools" />
-  <img src="https://img.shields.io/badge/AI%20Automation-EA580C?style=for-the-badge" alt="AI Automations" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></div>📊 Statistics
-<div align="center">  <!-- Replace YOUR_GITHUB_USERNAME in these image URLs -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph" /></div>🙋‍♂️ About Me
-<table>
-  <tr>
-    <td width="35%" align="center" valign="middle">
-      <!-- IMAGE 2: illustration/avatar for the About Me section -->
-      <img src="./assets/about-me.png" alt="Illustration of Aswin" width="220" />
-    </td>
-    <td width="65%" valign="middle">
-      <p align="center">
-        Hello! My name is <strong>Aswin Joel K</strong>, and I am an
-        <strong>AI Trainer and AI Engineer</strong>.
-      </p>
-      <p align="center">
-        I am passionate about Artificial Intelligence, Machine Learning, and
-        Generative AI. I enjoy building practical AI applications, exploring
-        emerging technologies, and solving real-world problems through
-        technology.
-      </p>
-      <p align="center">
-        I also enjoy sharing knowledge, mentoring learners, and helping people
-        build the skills they need to work confidently with AI.
-      </p>
-    </td>
-  </tr>
-</table>🎯 Hobbies & Goals
-<table>
-  <tr>
-    <td width="65%" align="center" valign="middle">
-      <p>
-        Passionate about building intelligent AI solutions, sharing knowledge,
-        exploring new technologies, and creating meaningful impact through
-        innovation.
-      </p>
-      <p><em>“Keep learning, keep building, and keep creating.”</em></p>
-    </td>
-    <td width="35%" align="center" valign="middle">
-      <!-- IMAGE 3: hobby/goal illustration -->
-      <img src="./assets/hobbies.png" alt="Hobbies and goals illustration" width="180" />
-    </td>
-  </tr>
-</table><div align="center">Thanks for visiting my profile! 🚀
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blue" alt="Profile views" /></div>
+`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F36,50:173B5E,100:315B85&height=190&section=header&text=Welcome%20to%20my%20GitHub&fontSize=34&fontColor=EAF3FF&fontAlignY=38&desc=Artificial%20Intelligence%20%7C%20Machine%20Learning%20%7C%20Automation&descAlignY=60&descSize=14" width="100%" alt="Welcome to Aswin Joel's GitHub" />`{=html}
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-315B85?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/EMAIL-315B85?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-315B85?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_URL)
+:::🧠 Technologies & Tools
+::: {align="center"}
+![Machine
+Learning](https://img.shields.io/badge/MACHINE%20LEARNING-315B85?style=for-the-badge)
+![Deep
+Learning](https://img.shields.io/badge/DEEP%20LEARNING-315B85?style=for-the-badge)
+![Generative
+AI](https://img.shields.io/badge/GENERATIVE%20AI-315B85?style=for-the-badge)
+![Agentic
+AI](https://img.shields.io/badge/AGENTIC%20AI-315B85?style=for-the-badge)
+`<br/>`{=html}
+![Python](https://img.shields.io/badge/PYTHON-263F59?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/FLASK-263F59?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/DJANGO-263F59?style=for-the-badge&logo=django&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-263F59?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-263F59?style=for-the-badge&logo=github&logoColor=white)
+`<br/>`{=html} ![AI
+Tools](https://img.shields.io/badge/AI%20TOOLS-527DA8?style=for-the-badge)
+![AI
+Automation](https://img.shields.io/badge/AI%20AUTOMATION-527DA8?style=for-the-badge)
+:::📊 GitHub Statistics
+::: {align="center"}
+`<img height="165" src="https://github-readme-stats.vercel.app/api?username=AswinJoel&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8DB8E5&text_color=C9D1D9&icon_color=8DB8E5&rank_icon=github" alt="Aswin Joel's GitHub statistics" />`{=html}
+`<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AswinJoel&layout=compact&hide_border=true&bg_color=0D1117&title_color=8DB8E5&text_color=C9D1D9" alt="Most used programming languages" />`{=html}
+
+`<img src="https://github-readme-activity-graph.vercel.app/graph?username=AswinJoel&bg_color=0D1117&color=C9D1D9&line=527DA8&point=8DB8E5&area=true&hide_border=true" width="96%" alt="GitHub contribution activity graph" />`{=html}
+:::🙋‍♂️ About Me
+Hello! I'm Aswin Joel K, an AI Trainer and AI Engineer
+passionate about Artificial Intelligence, Machine Learning, and
+Generative AI.
+
+I enjoy building practical AI applications, exploring emerging
+technologies, and solving real-world problems through technology. I also
+enjoy sharing knowledge, mentoring learners, and helping people build
+the skills they need to work confidently with AI.
+
+My current areas of interest include:
+- Artificial Intelligence and Machine Learning
+- Deep Learning and Generative AI
+- Agentic AI and AI-powered workflows
+- Python-based application development
+- AI tools and workflow automation
+🎯 Hobbies & Goals
+  Interests                           Goals
+  Exploring emerging AI technologies  Build useful, real-world AI
+applications
+
+  Learning and experimenting with new Deepen my expertise in Generative
+tools                               and Agentic AI
+
+  Building practical projects         Contribute to meaningful
+open-source projects
+Sharing knowledge and mentoring     Help more people become confident
+learners                            with AI
+::: {align="center"}
+### BUILD · LEARN · SHARE · INNOVATE
+
+*"The best way to predict the future is to build it."*
+
+![Profile
+views](https://komarev.com/ghpvc/?username=AswinJoel&style=flat-square&color=315B85&label=PROFILE+VIEWS)
+:::
